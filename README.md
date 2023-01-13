@@ -1,8 +1,7 @@
 # objectdetectorapp
 
 
-https://github.com/shaqian/flutter_tflite/blob/master/example/yolo.jpg
-
+![Screenshot](Screenshot_20230113_130909.png)
 
 
 ## Install
